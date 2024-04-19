@@ -1,8 +1,7 @@
 {
-  "name": "portifolio",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "Aprendendo  HTML e CSS construindo um portfólio.",
-  "main": "gulpfile.js",
+  "description": "",
   "dependencies": {},
   "devDependencies": {
     "clean-webpack-plugin": "^1.0.0",
